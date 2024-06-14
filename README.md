@@ -2,12 +2,13 @@
 
 
 ## 🚀 About Me
-I'm a 20 year old coding enthusiast with some knowledge in Android & Flutter Development !
+I'm a 20-year-old coding enthusiast skilled in Android and Flutter development !
 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekmamat-dzhaparov-955a4a258/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dzhaparov_bekmamat/?next=%2F)
+[![telegram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)]
  
 
 ## 🛠 Skills
