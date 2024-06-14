@@ -11,4 +11,4 @@ I'm a 20 year old coding enthusiast with some knowledge in Android & Flutter Dev
 
 
 ## 🛠 Skills
-Flutter, Android, Dart, Kotlin, OOP, SOLID, Clean Architecture, MVVM, MVP, JSON, Rest API, SharedPreferences, DI, Retrofit, BLoC, Provider, Dio, Hive, Riverprod, Room, Firebase, Coroutines
+Flutter, Android, Dart, Kotlin, OOP, SOLID, Clean Architecture, MVVM, MVP, JSON, Rest API, SharedPreferences, DI, Retrofit, BLoC, Provider, Dio, Hive, Riverprod, Room, Firebase, Coroutines.
