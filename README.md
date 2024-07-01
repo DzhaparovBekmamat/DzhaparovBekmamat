@@ -1,4 +1,4 @@
-# Hi, I'm Dzhaparov Bekmamat! 👋
+![image](https://github.com/DzhaparovBekmamat/DzhaparovBekmamat/assets/122871322/8d4dc221-800f-4853-9205-6dd28cb3e611)![image](https://github.com/DzhaparovBekmamat/DzhaparovBekmamat/assets/122871322/c6a7c4f0-e2f3-4473-9fec-6b67bc6679e9)# Hi, I'm Dzhaparov Bekmamat! 👋
 
 
 ## 🚀 About Me
@@ -14,3 +14,6 @@ I'm a 20-year-old coding enthusiast skilled in Flutter development !
 
 ## 🛠 Skills
 Flutter, Android, Dart, Kotlin, OOP, SOLID, Clean Architecture, MVVM, MVP, JSON, Rest API, SharedPreferences, DI, Retrofit, BLoC, Provider, Dio, Hive, Riverprod, Room, Firebase, Coroutines.
+
+## ![image](https://github.com/DzhaparovBekmamat/DzhaparovBekmamat/assets/122871322/152cf5f9-f6c9-4958-b8d1-bfc573f16895) My Projects
+
