@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a 20-year-old coding enthusiast skilled in Android and Flutter development !
+I'm a 20-year-old coding enthusiast skilled in Flutter development !
 
 
 ## 🔗 Links
